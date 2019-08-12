@@ -1,4 +1,4 @@
-# Project 1
+# Tribute Page
 
 ## Responsive Web Design Project
 
